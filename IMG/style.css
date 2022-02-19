@@ -16,9 +16,22 @@
 }
 img{
     width: 40%;
+    margin:70px 0px 0px 70px;
 }
 .container__left-side{
-    background-color: aqua;
+    background-color:;
     height: 500px;
-    width: 280px;
+    width: 300px;
+}
+
+.container__right-side{
+background-color: ;
+width:300px;
+
+}
+.container{
+    margin-left: 200px;
+}
+.footer{
+    text-align: center;
 }
